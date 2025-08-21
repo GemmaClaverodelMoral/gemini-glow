@@ -1,8 +1,8 @@
 {
   "name": "gemini-glow-dark",
   "displayName": "Gemini Glow Dark",
-  "description": "Un tema oscuro de alto contraste inspirado en la paleta de colores de Gemini acotado para código Python.",
-  "version": "1.0.0",
+  "description": "A dark, high-contrast theme inspired by the Gemini color palette, tailored for Python code.",
+  "version": "1.0.1",
   "publisher": "GEMMA-CLAVERO-DEL-MORAL",
   "license": "MIT",
   "engines": {
