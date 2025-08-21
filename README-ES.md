@@ -55,7 +55,7 @@ Copia y adiciona a tu archivo `settings.json` la siguiente configuración (`Ctrl
     "editor.fontLigatures": false
 ```
 ## 💬 Feedback y Contribuciones
-Este tema es un proyecto vivo. Si encuentras algún problema, un color que no se ve bien en algún lenguaje o tienes una sugerencia, por favor, abre un 'issue' en el repositorio de GitHub.
+Este tema es un proyecto vivo. Si encuentras algún problema, un color que no se ve bien en algún lenguaje o tienes una sugerencia, por favor, abre un 'issue' en el [repositorio de GitHub](https://www.google.com/search?q=https://github.com/GemmaClaverodelMoral/gemini-glow).
 
 ## Licencia
 Este tema se distribuye bajo la **Licencia MIT**.
