@@ -1,6 +1,6 @@
 {
-  "name": "gemini-glow",
-  "displayName": "Gemini Glow",
+  "name": "gemini-glow-dark",
+  "displayName": "Gemini Glow Dark",
   "description": "Un tema oscuro de alto contraste inspirado en la paleta de colores de Gemini acotado para código Python.",
   "version": "1.0.0",
   "publisher": "GEMMA-CLAVERO-DEL-MORAL",
@@ -10,7 +10,7 @@
   },
   "repository": {
   "type": "git",
-  "url": "https://github.com/GemmaClaverodelMoral/gemini-glowt"
+  "url": "https://github.com/GemmaClaverodelMoral/gemini-glow-dark"
   },
   "categories": [
     "Themes"
@@ -19,9 +19,9 @@
   "contributes": { 
     "themes": [
       {
-        "label": "Gemini Glow", 
+        "label": "Gemini Glow Dark", 
         "uiTheme": "vs-dark",
-        "path": "./themes/gemini-glow-color-theme.json"
+        "path": "./themes/gemini-glow-dark-color-theme.json"
       }
     ]
   }
