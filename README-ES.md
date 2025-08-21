@@ -2,15 +2,15 @@ For the English version, please click [here](README.md).
 
 ---
 
-# Gemini Glow ✨
+# Gemini Glow Dark ✨
 
 Un tema de alto contraste para Visual Studio Code, meticulosamente diseñado para replicar la vibrante y clara paleta de colores del código generado por Gemini más especificamente para codigo Python.
 
 -----
 
-## ¿Qué es Gemini Glow?
+## ¿Qué es Gemini Glow Dark?
 
-**Gemini Glow** nació de un objetivo simple: lograr una paridad visual casi perfecta entre el código de tu editor local y los fragmentos generados por Gemini. Si, como yo, disfrutas de la claridad y la estética de su resaltado de sintaxis, este tema es para ti.
+**Gemini Glow Dark** nació de un objetivo simple: lograr una paridad visual casi perfecta entre el código de tu editor local y los fragmentos generados por Gemini. Si, como yo, disfrutas de la claridad y la estética de su resaltado de sintaxis, este tema es para ti.
 
 Cada color ha sido cuidadosamente seleccionado para maximizar la legibilidad y reducir la fatiga visual, utilizando colores vibrantes para la sintaxis clave (funciones en amarillo, keywords en púrpura, tipos en verde) y tonos más sutiles para el resto del código, todo sobre un fondo oscuro y confortable.
 
@@ -22,22 +22,22 @@ Cada color ha sido cuidadosamente seleccionado para maximizar la legibilidad y r
 
 ## ⚙️ Instalación
 
-Puedes instalar **Gemini Glow** de dos maneras:
+Puedes instalar **Gemini Glow Dark** de dos maneras:
 
 **1. Desde el Marketplace de VS Code (Recomendado)**
 
 1.  Abre **Visual Studio Code**.
 2.  Ve a la vista de **Extensiones** (`Ctrl+Shift+X`).
-3.  Busca `Gemini Glow`.
+3.  Busca `Gemini Glow Dark`.
 4.  Haz clic en el botón **"Install"**.
-5.  Activa el tema desde la Paleta de Comandos (`Ctrl+Shift+P`), buscando `Preferences: Color Theme` y seleccionando `Gemini Glow`.
+5.  Activa el tema desde la Paleta de Comandos (`Ctrl+Shift+P`), buscando `Preferences: Color Theme` y seleccionando `Gemini Glow Dark`.
 
 **2. Desde la Paleta de Comandos**
 
 1.  Abre la paleta de comandos (`Ctrl+P`).
 2.  Pega el siguiente comando y presiona `Enter`:
     ```bash
-    ext install GEMMA-CLAVERO-DEL-MORAL.gemini-glow
+    ext install GEMMA-CLAVERO-DEL-MORAL.gemini-glow-dark
     ```
 -----
 
@@ -55,7 +55,7 @@ Copia y adiciona a tu archivo `settings.json` la siguiente configuración (`Ctrl
     "editor.fontLigatures": false
 ```
 ## 💬 Feedback y Contribuciones
-Este tema es un proyecto vivo. Si encuentras algún problema, un color que no se ve bien en algún lenguaje o tienes una sugerencia, por favor, abre un 'issue' en el [repositorio de GitHub](https://www.google.com/search?q=https://github.com/GemmaClaverodelMoral/gemini-glow).
+Este tema es un proyecto vivo. Si encuentras algún problema, un color que no se ve bien en algún lenguaje o tienes una sugerencia, por favor, abre un 'issue' en el [repositorio de GitHub](https://www.google.com/search?q=https://github.com/GemmaClaverodelMoral/gemini-glow-dark).
 
 ## Licencia
 Este tema se distribuye bajo la **Licencia MIT**.
