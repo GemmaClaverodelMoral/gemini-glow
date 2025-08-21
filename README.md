@@ -58,7 +58,7 @@ Copy and add the following configuration to your `settings.json` file (`Ctrl+Shi
 -----
 
 ## 💬 Feedback and Contributions
-This theme is a living project. If you find any issues, a color that doesn't look right in a specific language, or have a suggestion, please open an 'issue' on the GitHub repository [repositorio de GitHub](https://www.google.com/search?q=https://github.com/GemmaClaverodelMoral/gemini-glow).
+This theme is a living project. If you find any issues, a color that doesn't look right in a specific language, or have a suggestion, please open an 'issue' on the [GitHub repository](https://www.google.com/search?q=https://github.com/GemmaClaverodelMoral/gemini-glow).
 
 ## License
 This theme is distributed under the **MIT License**.
